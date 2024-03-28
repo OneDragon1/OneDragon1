@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Gonzalo Mondragon or "Dragon" for short.
+### Hi there 👋, I'm Gonzalo Mondragon. 
 #### Web Developer
 ![Web Developer](https://exampleleumi.com/wp-content/uploads/2015/10/banner-industry-tech.jpg)
 
