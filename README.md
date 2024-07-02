@@ -2,12 +2,6 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header"/>
 </p>
 
-
-
-
-
-
-
 ## :dragon:  Hello there, little bit About Me and My Interest :dragon:
 ```yaml
 name: Gonzalo Mondragon
@@ -67,7 +61,11 @@ hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy boo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="Premier Pro" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="Adobe XD" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"  alt="After Effect" width="45" height="45" />
-          
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
           
           
