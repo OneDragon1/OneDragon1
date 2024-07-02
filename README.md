@@ -30,7 +30,9 @@ currently_learning: [ "JavaScript - advanced concepts and frameworks",
     "React.js for dynamic web applications",
     "UX/UI Design principles",
     "GitHub and version control",]
-2024 Goals: [Create 25+ projects and learn at least 5-10 new technologies",  "Build a robust portfolio on GitHub with diverse front-end projects", "Monetize YouTube channel 'Dragon's Book Nook'",
+2024 Goals: [Create 25+ projects and learn at least 5-10 new technologies",
+   "Build a robust portfolio on GitHub with diverse front-end projects",
+    "Monetize YouTube channel 'Dragon's Book Nook'",
     "Gain hands-on experience in cloud computing with AWS",
     "Enhance proficiency in React.js and other JavaScript frameworks"]
 hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy books", "Exploring new tech gadgets"]
