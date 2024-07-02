@@ -78,7 +78,7 @@ hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy boo
           
           
    <a href="https://piyushmalhotra.netlify.app/">
-  <img height="50" src="https://img.icons8.com/?size=100&id=89362&format=png&color=000000  .png"/>
+  <img height="50" src="https://img.icons8.com/?size=100&id=89362&format=png&color=000000.png"/>
 </a>
           
           
