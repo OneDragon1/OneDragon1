@@ -1,28 +1,28 @@
-## Hi there 👋
+## Hi there :dragon:
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Gonzalo Mondragon
+located_in: Tustin, CA
+current_job: Certification Lab Tech
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+   "100DEVS"
+  "Zero to Mastery Courses"
+    
   ]
-company: Soulber
+
 
 fields_of_interests:
   [
     "Web Development",
-    "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
+    "Content Creation",
     "DevOps",
   ]
 technical_background:
   [
-    "Full Stack Developer"
+    "Front End Developer"
     "DevOps Solutions Architect",
     "Intern - Data Science & Machine Learning in Python",
     "Intern - Internet Of Things",
