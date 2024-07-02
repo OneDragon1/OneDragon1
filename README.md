@@ -2,6 +2,20 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header"/>
 </p>
 
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
+<p align="center">
+
+<a href="gmondragon104@gmail.com">
+  <img height="50" src="https://img.icons8.com/?size=100&id=bEuPsJMbDeHW&format=png&color=000000.png"/>
+</a>
+
+
+ 
+</p>
+
 ## :dragon:  Hello there, little bit About Me and My Interest :dragon:
 ```yaml
 name: Gonzalo Mondragon
@@ -77,9 +91,7 @@ hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy boo
         
           
           
-   <a href="https://piyushmalhotra.netlify.app/">
-  <img height="50" src="https://img.icons8.com/?size=100&id=89362&format=png&color=000000.png"/>
-</a>
+
           
           
           
