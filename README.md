@@ -60,11 +60,13 @@ hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy boo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="Premier Pro" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="Adobe XD" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg"  alt="After Effect" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</p>
 
 
 
 
-<p align="left">
+<p align="Center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
@@ -72,16 +74,16 @@ hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy boo
           
           
           
+        
+          
+          
+   <a href="https://piyushmalhotra.netlify.app/">
+  <img height="50" src="https://img.icons8.com/?size=100&id=89362&format=png&color=000000  .png"/>
+</a>
           
           
           
           
           
           
-          
-          
-          
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 
-</p>
