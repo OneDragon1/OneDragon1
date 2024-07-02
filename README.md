@@ -64,7 +64,7 @@ hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy boo
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
