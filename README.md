@@ -46,10 +46,8 @@ currently_learning: [ "JavaScript - advanced concepts and frameworks",
     "Gain hands-on experience in cloud computing with AWS",
     "Enhance proficiency in React.js and other JavaScript frameworks"]
 hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy books", "Exploring new tech gadgets"]
+
 ```
-
-
-
 <h2> :crossed_swords: &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
   
