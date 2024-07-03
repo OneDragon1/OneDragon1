@@ -85,6 +85,8 @@ hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy boo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneDragon1)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneDragon1_progress=true)
+
 
 
 <p align="Center">
