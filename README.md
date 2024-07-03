@@ -11,7 +11,8 @@
 <a href=mailto:gmondragon104@gmail.com>
 <img height="50" src="https://github.com/OneDragon1/OneDragon1/assets/92191539/10bcbeed-988f-4560-a11d-626c2bed417c.png"/>
 </a>
- <a>
+
+ <a href='https://www.linkedin.com/in/gonzalo-mondragon-163092241/'>
  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 </a>
  
