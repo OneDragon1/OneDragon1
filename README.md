@@ -12,7 +12,11 @@
   <img height="50" src="https://img.icons8.com/?size=100&id=bEuPsJMbDeHW&format=png&color=000000.png"/>
 </a>
 
-https://img.icons8.com/?size=100&id=bEuPsJMbDeHW&format=png&color=000000.png
+
+
+<a href=mailto:gmondragon104@gmail.com>
+  <img height="50" src="https://img.icons8.com/?size=100&id=bEuPsJMbDeHW&format=png&color=000000.png"/>
+</a>
  
 </p>
 
