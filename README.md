@@ -26,8 +26,8 @@ current_job: Certification Lab Tech
 education:
   [
     "Self-Taught Developer and Designer",
-   "100DEVS"
-  "Zero to Mastery Courses"
+    "100DEVS"
+    "Zero to Mastery Courses"
     ]
 fields_of_interests:
   [
@@ -52,9 +52,9 @@ currently_learning: [ "JavaScript - advanced concepts and frameworks",
     "GitHub and version control",]
 2024 Goals: [Create 25+ projects and learn at least 5-10 new technologies",
    "Build a robust portfolio on GitHub with diverse front-end projects",
-    "Monetize YouTube channel 'Dragon's Book Nook'",
-    "Gain hands-on experience in cloud computing with AWS",
-    "Enhance proficiency in React.js and other JavaScript frameworks"]
+   "Monetize YouTube channel 'Dragon's Book Nook'",
+   "Gain hands-on experience in cloud computing with AWS",
+   "Enhance proficiency in React.js and other JavaScript frameworks"]
 hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy books", "Exploring new tech gadgets"]
 
 ```
@@ -79,6 +79,9 @@ hobbies: ["Content creation", "Reading fiction, science fiction, and fantasy boo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
+
+
+[![Gonzalo's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneDragon1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
